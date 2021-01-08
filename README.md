@@ -88,7 +88,7 @@ Changes
 
 - 移除名为 `ik` 的analyzer和tokenizer,请分别使用 `ik_smart` 和 `ik_max_word`
 
-- 参考来源：https://github.com/yangyu9507/elasticsearch-analysis-ik-7.3.2，非常感谢原作者的开源
+- 参考来源：https://github.com/yangyu9507/elasticsearch-analysis-ik-7.3.2
 
 ***修改源码过程及配置步骤看docx文档***
 
